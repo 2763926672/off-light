@@ -30,7 +30,7 @@ input[type="checkbox"]:before {
     transition: left cubic-bezier(0.3, 1.5, 0.7, 1) 0.3s;
 }
 input[type="checkbox"]:checked {
-    background-color: limegreen;
+    background-color: rgb(37, 37, 54);
 }
 
 input[type="checkbox"]:checked:before {
@@ -38,10 +38,11 @@ input[type="checkbox"]:checked:before {
 }
 
 input[type="checkbox"]:checked:after {
-    color: black;
+    color: white;
 }
 
 body{
     white-space: nowrap;
     text-align: center;
+    background-color: black;
 }
