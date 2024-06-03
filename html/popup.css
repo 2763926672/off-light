@@ -44,5 +44,5 @@ input[type="checkbox"]:checked:after {
 body{
     white-space: nowrap;
     text-align: center;
-    background-color: black;
+    background-color: #313234;
 }
