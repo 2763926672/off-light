@@ -1,10 +1,10 @@
 {
     "name":"一键关灯",
-    "version":"1.0.0",
+    "version":"1.0.1",
     "manifest_version":3,
     "description":"点击一键关灯，转换成深色模式～",
     "icons":{
-        "128": "icons/offlight128x128.png"
+        "128": "icons/offlight.png"
     },
     "content_scripts": [
         {
